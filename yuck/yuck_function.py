@@ -32,3 +32,5 @@ def yuck(
 
     return wrapper
 
+
+__all__ = ["yuck"]
